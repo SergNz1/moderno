@@ -316,7 +316,11 @@ padding: 0 15px;
       @include f500;
   }
 }
-
+.icosvg-3{
+    svg{
+        height: 76px;
+    }
+}
 
 //end advantages
 
